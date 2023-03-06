@@ -1,0 +1,16 @@
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ListManipulation.exe
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ListManipulation.deps.json
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ListManipulation.runtimeconfig.json
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ListManipulation.runtimeconfig.dev.json
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ListManipulation.dll
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ref\ListManipulation.dll
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\bin\Debug\net5.0\ListManipulation.pdb
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.csproj.AssemblyReference.cache
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.AssemblyInfoInputs.cache
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.AssemblyInfo.cs
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.csproj.CoreCompileInputs.cache
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.dll
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ref\ListManipulation.dll
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.pdb
+D:\2022-2023 godina\11b RS\Git-GitHub\ManipulationApp\ListManipulation\ListManipulation\obj\Debug\net5.0\ListManipulation.genruntimeconfig.cache
